@@ -1,0 +1,20 @@
+{
+  "name": "surdu",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "npx --package markdown-spellcheck mdspell -rnax  --en-us 'README.md'",
+    "postinstall": "cp hooks/* ./.git/hooks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surdu/surdu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surdu/surdu/issues"
+  },
+  "homepage": "https://github.com/surdu/surdu#readme"
+}
