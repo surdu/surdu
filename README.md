@@ -14,7 +14,7 @@
 <br />
 <br />
 
-My name is Surdu Nicolae. I'm a JavaScript developer by day, tinkerer by night. I enjoy writing good software for good people and using my free time to build and play with gadgets.
+My name is Nicu Surdu. I'm a JavaScript developer by day, tinkerer by night. I enjoy writing good software for good people and using my free time to build and play with gadgets.
 
 **What I'm working on:**
 
