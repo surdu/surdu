@@ -23,7 +23,7 @@ My name is Nicu Surdu. I'm a JavaScript developer by day, tinkerer by night. I e
 
 **What I'm writing:**
 
- - [Automate Building GitHub Pages That Use Jekyll Plugins](https://surdu.me/2020/02/04/jekyll-git-hook.html)
+ - [Write More Meaningful Time Constants](https://surdu.me/2022/10/22/write-meaningful-time-constants.html)
  - [Use DigitalOcean as Dynamic DNS](https://surdu.me/2019/07/28/digital-ocean-ddns.html)
  - [Disable Margin Collapse in CSS with No Visual Impact](https://surdu.me/2017/04/10/disable-margin-collapse.html)
 
