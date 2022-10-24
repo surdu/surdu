@@ -18,8 +18,8 @@ My name is Nicu Surdu. I'm a JavaScript developer by day, tinkerer by night. I e
 
 **What I'm working on:**
 
+- 💻 [sstext3d.scr](https://github.com/surdu/sstext3d.scr) - Windows XP 3D Text screensaver for your browser
 - 🤖 A [Calibration Core](https://github.com/surdu/calibration-core) prop from Valve's [The Lab](https://en.wikipedia.org/wiki/The_Lab_(video_game))
-- 🎓 Learning React
 
 **What I'm writing:**
 
